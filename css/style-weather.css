@@ -1,0 +1,25 @@
+body {
+   background: #cecece;
+}
+.weather {
+
+}
+.weather p{
+	font-weight: bold;
+
+}
+.weather p span{
+	color:#00ee00;
+	float:right;
+}
+.p-city {
+	font-size: 25px;
+	color:purple;
+	text-align: center
+}
+.hello{
+	text-align: center;
+	color:#009900;
+	font-weight: bold;
+
+}

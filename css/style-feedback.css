@@ -1,0 +1,58 @@
+body {
+   background: #cecece;
+}
+h1{
+	color:#009900;
+	text-align: center;
+}
+.form-feedback{
+	text-align: center
+}
+.form-control {
+	width: 40%;
+	position: relative;
+	top:10px;
+	margin: 0 auto;
+	border: 2px solid purple
+}
+.input-feedback {
+	border: 2px solid purple;
+	width: 20%
+}
+.button-feedback {
+	margin-top: 20px;
+	background: #cecece;
+	border:2px solid purple;
+	color:purple;
+	font-weight: bold;
+	height: 50px;
+	font-size: 13px;
+	width: 9%
+}
+.button-feedback:hover{
+   text-decoration: none;
+	 transition: all .8s;
+     background: purple;
+     color:#cecece;
+}
+
+.captcha-center {
+	margin-left: 34%;
+    margin-top: 30px;
+}
+
+.table-feedbacklist {
+
+	margin: 0 auto;
+
+}
+
+.table-feedbacklist tr th {
+	padding: 10px;
+	color:purple;
+}
+.table-feedbacklist tr td {
+	padding: 10px;
+	color:#aaaa44;
+	font-weight: bold
+}
